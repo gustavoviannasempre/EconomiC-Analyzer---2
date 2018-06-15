@@ -1,0 +1,16 @@
+{
+    "name": "gustavoviannasempre/EconomiC-Analyzer-master",
+    "description": "Projeto ECA",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GustavoSoares",
+            "email": "gustavo.soares@viannasempre.com.br"
+        }
+    ],
+    "require": {
+        "davefx/phplot": "^6.2",
+        "phpmailer/phpmailer": "^6.0",
+        "mpdf/mpdf": "^7.1"
+    }
+}
